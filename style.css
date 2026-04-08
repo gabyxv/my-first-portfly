@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    background-color: chocolate;
+    color: burlywood;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: bisque;
+    color: ghostwhite;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,1);
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: azure;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: #2980b9;
+
+}
